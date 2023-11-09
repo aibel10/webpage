@@ -1,0 +1,29 @@
+body{
+    background-image: url(messi-pictures-yuzwy77nhcyxnysl\ \(1\).jpg);
+    background-size: 1000px;
+}
+
+header {
+    background-color: black;
+}
+
+#logo {
+    margin-left: 5%;
+}
+
+.navigation {
+    float: right;
+    margin-top: 15px;
+    margin-right: 15px;
+}
+.navigation a{
+        border: 3px solid red;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        color: rgb(240, 21, 21);
+        text-decoration: none;
+        padding: 10px;
+    }
+    .navigation a:hover {
+        background-color: blue;
+        color: darkmagenta;
+    }

@@ -1,0 +1,13 @@
+ #zoro{
+    color: blue;
+    text-align: left;
+ }
+ .BMW{
+   border: 5px dotted red;
+   padding-left: 25px;
+   padding-right: 25px;
+   margin-left: 5cm;
+   margin-right: 20cm;
+   margin-top: 5%;
+   margin-bottom: 5%;
+ }
